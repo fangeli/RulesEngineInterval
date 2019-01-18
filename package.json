@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/fangeli/RulesEngineInterval#readme",
   "dependencies": {
-    "rulesengineinterval": "^2.0.0"
+    "rulesengineinterval": "^3.0.0"
   }
 }

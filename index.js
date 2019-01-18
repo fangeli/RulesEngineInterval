@@ -63,7 +63,7 @@ module.exports = {
                 }
             }
             else {
-                console.log("intervalValidity not defined: " + intervalValidity);
+                //console.log("intervalValidity not defined: " + intervalValidity);
                 success = false;
             }
 
